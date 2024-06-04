@@ -26,11 +26,7 @@ To run the project, follow these steps:
 
 1. Install the required dependencies.
 2. Clone the repository.
-3. Run the following command:
-
-```
-python caption_creator.py
-```
+3. Use the ipynb notebook to train the models and show the result.
 
 ## Badges
 
