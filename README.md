@@ -34,7 +34,7 @@ To run the project, follow these steps:
 ![image](https://github.com/Shnekels/Caption_RNN_Study/assets/146712800/e74b824f-0bee-482f-ab2d-90042cd04179)
 ![image](https://github.com/Shnekels/Caption_RNN_Study/assets/146712800/10193080-37d5-4989-a112-d2e6df79cdab)
 ![image](https://github.com/Shnekels/Caption_RNN_Study/assets/146712800/9e07963b-6462-4ea5-95e6-da5e651decf8)
-![image](https://github.com/Shnekels/Caption_RNN_Study/assets/146712800/771c2591-3905-49aa-b93c-9bbf4197eaf9)
+![image](https://github.com/Shnekels/Caption_RNN_Study/assets/146712800/1a5b5a5b-a922-4eec-a913-d161ec614e75)
 
 We can clearly see that the results on the train data are much better then on the val data.
 
