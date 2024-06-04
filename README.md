@@ -26,7 +26,7 @@ To run the project, follow these steps:
 
 1. Install the required dependencies.
 2. Clone the repository.
-3. 2. Download [coco.py](http://web.eecs.umich.edu/~justincj/teaching/eecs498/coco.pt) and save in datasets directory
+3. Download [coco.py](http://web.eecs.umich.edu/~justincj/teaching/eecs498/coco.pt) and save in datasets directory
 4. Use the ipynb notebook to train the models and show the result.
 
 ## Badges
