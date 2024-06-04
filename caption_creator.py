@@ -59,6 +59,11 @@ def data_downloading():
     "val_captions" - tokenized and numericalized validation captions
     "vocab" - caption vocabulary, including "idx_to_token" and "token_to_idx"
     '''
+    if os.path.isfile("./datasets/coco.pt"):
+        print("COCO data exists!")
+    else:
+        print("downloading COCO dataset")
+        !wget http://web.eecs.umich.edu/~justincj/teaching/eecs498/coco.pt -P ./datasets/
 
     # load COCO data from coco.pt, loaf_COCO is implemented in a5_helper.py
     data_dict = load_coco_captions(path="./datasets/coco.pt")
