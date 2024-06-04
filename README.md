@@ -17,7 +17,7 @@ The project consists of the following components:
 - Minibatch visualization
 - Overfitting test
 - RNN model training
-- Attention model training
+- Attention LSTM model training
 - Result visualization
 
 ## How to Run the Project
