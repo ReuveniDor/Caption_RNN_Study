@@ -29,6 +29,16 @@ To run the project, follow these steps:
 3. Download [coco.py](http://web.eecs.umich.edu/~justincj/teaching/eecs498/coco.pt) and save in datasets directory
 4. Use the ipynb notebook to train the models and show the result.
 
+## Results
+
+![image](https://github.com/Shnekels/Caption_RNN_Study/assets/146712800/e74b824f-0bee-482f-ab2d-90042cd04179)
+![image](https://github.com/Shnekels/Caption_RNN_Study/assets/146712800/10193080-37d5-4989-a112-d2e6df79cdab)
+![image](https://github.com/Shnekels/Caption_RNN_Study/assets/146712800/9e07963b-6462-4ea5-95e6-da5e651decf8)
+![image](https://github.com/Shnekels/Caption_RNN_Study/assets/146712800/771c2591-3905-49aa-b93c-9bbf4197eaf9)
+
+We can clearly see that the results on the train data are much better then on the val data.
+
+
 ## Badges
 
 - [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/aleju/image-captioning/blob/master/LICENSE)
