@@ -34,7 +34,6 @@ python caption_creator.py
 
 ## Badges
 
-- [![Documentation Status](https://readthedocs.org/projects/image-captioning/badge/?version=latest)](https://image-captioning.readthedocs.io/en/latest/?badge=latest)
 - [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/aleju/image-captioning/blob/master/LICENSE)
 
 ## Conclusion
